@@ -1,3 +1,5 @@
 *.csv
 *.txt
 *.parquet
+data/*
+dbmaint.q
